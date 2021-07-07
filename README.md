@@ -1,7 +1,6 @@
 # Chase The Cure
-* Version 0.3 (Final): [Last Build](https://github.com/AitorSimona/ChaseTheCure/releases/download/0.3/ChaseTheCure_v0.3.zip)
-* GitHub repository: [Repository](https://github.com/AitorSimona/ChaseTheCure)
-* GitHub Wiki: [Wiki](https://github.com/AitorSimona/ChaseTheCure/wiki)
+* Version 0.3 (Final): [Last Build](https://github.com/CITM-AI/ChaseTheCurePublic/releases/download/0.3/ChaseTheCure_v0.3.zip)
+* GitHub Wiki: [Wiki](https://github.com/CITM-AI/ChaseTheCurePublic/wiki)
 
 Due to Assets license, repo is kept private, you won't be able to access it, click Last Build to download latest release!
 
