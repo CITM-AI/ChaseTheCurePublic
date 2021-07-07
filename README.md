@@ -1,8 +1,7 @@
 # Chase The Cure
 * Version 0.3 (Final Version)
-* GitHub repository: [Repository](https://github.com/AitorSimona/ChaseTheCure)
-* GitHub Wiki: [Wiki](https://github.com/AitorSimona/ChaseTheCure/wiki)
-* GitHub Web: [Web](https://aitorsimona.github.io/ChaseTheCure/)
+* GitHub Wiki: [Wiki](https://github.com/CITM-AI/ChaseTheCurePublic/wiki)
+* GitHub Web: [Web](https://citm-ai.github.io/ChaseTheCurePublic/)
 
 A Virus has spread around, you have to find a cure.
 Keep people alive, keep PANIC in check, good luck.
